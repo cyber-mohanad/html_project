@@ -8,7 +8,7 @@ Course12 is a front-end development project focused on structuring and styling a
 
 ## Live Demo
 
-[Live Demo Link](#) — *placeholder, add your deployed website link here*
+[Live Demo Link](#) — https://mohanedaboemar123-lang.github.io/html_project/
 
 ## Project Screenshot
 
