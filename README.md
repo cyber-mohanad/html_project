@@ -8,19 +8,7 @@ Course12 is a front-end development project focused on structuring and styling a
 
 ## Live Demo
 
-[Live Demo Link](#) — https://mohanedaboemar123-lang.github.io/html_project/
-
-## Project Screenshot
-
-![Course12 Screenshot](./assets/screenshot.png)
-
-## Developer Profile
-
-![Mohanad Ahmed Rashid Abu Ammar](./assets/profile.jpg)
-
-- **Name:** Mohanad Ahmed Rashid Abu Ammar
-- **GitHub Repository:** [html_project](https://github.com/mohanedaboemar123-lang/html_project)
-- **LinkedIn:** [mohanad-abuammar](https://www.linkedin.com/in/mohanad-abuammar)
+[Live Demo Link](https://mohanedaboemar123-lang.github.io/html_project/)
 
 ## Features
 
@@ -46,23 +34,8 @@ html_project/
 │
 ├── index.html
 ├── Colorful.jpg
-├── assets/
-│   ├── profile.jpg
-│   └── screenshot.png
 └── README.md
 ```
-
-## How to Run the Project
-
-1. Clone the repository:
-   ```
-   git clone https://github.com/mohanedaboemar123-lang/html_project.git
-   ```
-2. Navigate into the project folder:
-   ```
-   cd html_project
-   ```
-3. Open `index.html` in your preferred web browser to view the site.
 
 ## Learning Objectives
 
@@ -84,7 +57,7 @@ Through building this project, the following skills were developed and reinforce
 - Integrate a backend for handling form submissions
 - Connect to a database for storing registration data
 
-## Author
+## Developer 
 
 **Mohanad Ahmed Rashid Abu Ammar**
 
