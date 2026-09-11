@@ -61,5 +61,5 @@ Through building this project, the following skills were developed and reinforce
 
 **Mohanad Ahmed Rashid Abu Ammar**
 
-- GitHub: [mohanedaboemar123-lang](https://github.com/cyber-mohanad)
+- GitHub: [cyber-mohanad](https://github.com/cyber-mohanad)
 - LinkedIn: [mohanad-abuammar](https://www.linkedin.com/in/mohanad-abuammar)
